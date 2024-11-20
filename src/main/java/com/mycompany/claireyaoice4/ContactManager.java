@@ -43,4 +43,6 @@ public class ContactManager {
     public void addContact(Contact contact){
         contactList.add(contact);
     }
+    
+    //random change adding comment
 }

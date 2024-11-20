@@ -128,4 +128,6 @@ public class testContactManager {
     //set contact to null, search for null
     
     //assertNull() functions
+    
+    //tested git repo by adding something
 }   
