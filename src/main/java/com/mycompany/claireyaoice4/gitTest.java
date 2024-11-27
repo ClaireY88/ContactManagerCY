@@ -12,6 +12,7 @@ public class gitTest {
     //adding a comment as example of editing file directly in github
     private int myProperty;
 
+    //this is a comment made on the Friend branch
     public int getMyProperty() {
         return myProperty;
     }
